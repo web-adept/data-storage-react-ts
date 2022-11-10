@@ -24,7 +24,7 @@ Use commands described below or read [json-server's documentation](https://www.n
 Clone the project
 
 ```bash
-  git clone https://github.com/web-adept/countries-info
+  git clone https://github.com/web-adept/data-storage-react-ts
 ```
 
 Go to the project directory
