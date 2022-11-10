@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "nickName": "@theSituation",
+      "firstName": "Michael",
+      "lastName": "Sorrentino",
+      "age": "40",
+      "email": "sorrentino@gmail.com",
+      "id": "1"
+    },
+    {
+      "nickName": "@Snooki",
+      "firstName": "Nicole",
+      "lastName": "Polizzi",
+      "age": "34",
+      "email": "snooki@gmail.com",
+      "id": "2"
+    },
+    {
+      "nickName": "@SammiSweetheart",
+      "firstName": "Samantha ",
+      "lastName": "Giancola",
+      "age": "35",
+      "email": "sweetheart@gmail.com",
+      "id": "3"
+    },
+    {
+      "nickName": "@ronnie",
+      "firstName": "Ronald ",
+      "lastName": "Ortiz-Magro",
+      "age": "37",
+      "email": "ronnie@gmail.com",
+      "id": "4"
+    },
+    {
+      "nickName": "@ketoGuido",
+      "firstName": "Vinny ",
+      "lastName": "Guadagnino",
+      "age": "34",
+      "email": "ketoguido@gmail.com",
+      "id": "5"
+    },
+    {
+      "nickName": "@JWoww",
+      "firstName": "Jennifer",
+      "lastName": "Farley",
+      "age": "36",
+      "email": "jwoww@gmai.com",
+      "id": "6"
+    },
+    {
+      "nickName": "@PaulyD",
+      "firstName": "Paul",
+      "lastName": "DelVecchio",
+      "age": "42",
+      "email": "paulyd@gmail.com",
+      "id": "7"
+    }
+  ]
+}

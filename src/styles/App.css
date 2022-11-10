@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(201, 201, 201);
+  overflow: hidden;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  height: 100vh;
+}
+
+.delete-icon {
+  display: inline-block;
+  font-weight: bold;
+  color: #808080;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.delete-icon:hover {
+  color: red;
+}
