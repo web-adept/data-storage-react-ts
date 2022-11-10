@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/data-storage-react-ts/static/css/main.9892c4d2.css",
+    "main.js": "/data-storage-react-ts/static/js/main.62a5b6ce.js",
+    "index.html": "/data-storage-react-ts/index.html",
+    "main.9892c4d2.css.map": "/data-storage-react-ts/static/css/main.9892c4d2.css.map",
+    "main.62a5b6ce.js.map": "/data-storage-react-ts/static/js/main.62a5b6ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9892c4d2.css",
+    "static/js/main.62a5b6ce.js"
+  ]
+}
